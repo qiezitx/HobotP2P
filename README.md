@@ -1,5 +1,5 @@
-# WebRTC
-Self builds of Google WebRTC iOS Framework https://webrtc.org/native-code/ios/
+# HobotP2P
+A P2P Client base on Google WebRTC iOS Framework https://webrtc.org/native-code/ios/
 
 ## Cartfile
-	github "qiezitx/WebRTC"
+	github "qiezitx/HobotP2P"
